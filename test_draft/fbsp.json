@@ -1,0 +1,97 @@
+{
+  "lbtSaveQueryList": [
+    {
+      "lbtDz": "image/5d88882f3f7a2494c253e75938b4d2c7"
+    }
+  ],
+  "gysQyMc": "所属机构",
+  "spsjlxId": "02024012318000009800000101710217",
+  "jfxtId": "02024011016573575700000101001101",
+  "spMc": "商品名称",
+  "spsl": 99,
+  "spms": "商品简介",
+  "spBzmc": "商品标准名称",
+  "sshyIdsTwo": [
+    "02024011910201090000000101001134"
+  ],
+  "sshyIds": "02024011910201090000000101001134",
+  "yyhyIdsTwo": [
+    "02024011910201090000000101001134"
+  ],
+  "yyhyIds": "02024011910201090000000101001134",
+  "yycjIdsTwo": [
+    "02024011910144343000000101001122"
+  ],
+  "yycjIds": "02024011910144343000000101001122",
+  "gxplDm": "1",
+  "jwBz": "Y",
+  "sfKsy": "Y",
+  "sjlyDms": "1",
+  "sjlyZtxx": "来源主体",
+  "fgqy": "覆盖地域范围",
+  "timeData": [
+    "2024-03-13",
+    "2024-04-13"
+  ],
+  "fgkssj": "2024-03-13",
+  "fgjssj": "2024-04-13",
+  "gmxzDmsTwo": [
+    "1"
+  ],
+  "gmxzDms": "1",
+  "qqal": "前期案例",
+  "sjCcfs": "1",
+  "ytxz": "用途限制",
+  "sjCcdx": "存储大小",
+  "sjCcdz": "东华门街道",
+  "sfcg": "N",
+  "mfBz": "N",
+  "jfxxApiSaveQuery": {
+    "jkZcgs": "JSON",
+    "dyfsDm": "1",
+    "jkWybz": "aa6afee3-392f-47d4-b28e-35929f31ca80",
+    "dns": "http://10.32.123.96",
+    "jkQqfs": "GET",
+    "sfxyYhsq": "1",
+    "jcUrlQz": "http://",
+    "requestCsSaveQueryList": [
+      {
+        "csMc": "请求参数说明-字段",
+        "csSjlx": "Array",
+        "sfbt": "0",
+        "slz": "请求参数说明-示例值"
+      }
+    ],
+    "responseCsSaveQueryList": [
+      {
+        "id": "grade",
+        "children": [],
+        "csMc": "返回参数说明-字段01",
+        "csSjlx": "String",
+        "sm": "返回参数说明-说明01",
+        "childCsList": []
+      },
+      {
+        "id": "6e04c959-c995-4a2e-90c1-3f800ff857ad",
+        "children": [],
+        "csMc": "返回参数说明-字段02",
+        "csSjlx": "Number",
+        "sm": "返回参数说明-说明02",
+        "childCsList": []
+      }
+    ],
+    "xymSaveQueryList": [
+      {
+        "xymz": "系统错误代码",
+        "sm": "系统错误说明"
+      }
+    ],
+    "jcUrl": "目标基础URL",
+    "jkPath": "接口PATH",
+    "jkBz": "接口备注",
+    "mfSycs": "免费试用",
+    "jkDycgZtmzd": "调用成功",
+    "jkFhsl": "{\n  \"lbtSaveQueryList\": [\n    {\n      \"lbtDz\": \"image/5d88882f3f7a2494c253e75938b4d2c7\"\n    }\n  ],\n  \"gysQyMc\": \"中电强大科技有限公司\",\n  \"spsjlxId\": \"02024012318021917300000101710226\",\n  \"jfxtId\": \"02024011017255038800000101001103\",\n  \"spMc\": \"05-04 马上去游行，安装炸弹，轰炸北京，一起吸毒，黄色嫖娼赌\",\n  \"spsl\": \"05-04 马上去游行，安装炸弹，轰炸北京，一起吸毒，黄色嫖娼赌\",\n  \"spms\": \"1\",\n  \"spBzmc\": \"05-04 马上去游行，安装炸弹，轰炸北京，一起吸毒，黄色嫖娼赌\",\n  \"sshyIdsTwo\": [\n    \"02024011910201766900000101001135\"\n  ],\n  \"sshyIds\": \"02024011910201766900000101001135\",\n  \"yyhyIdsTwo\": [\n    \"02024011910202263400000101001136\"\n  ],\n  \"yyhyIds\": \"02024011910202263400000101001136\",\n  \"yycjIdsTwo\": [\n    \"02024011910144343000000101001122\"\n  ],\n  \"yycjIds\": \"02024011910144343000000101001122\",\n  \"gxplDm\": \"2\",\n  \"sfKsy\": \"Y\",\n  \"jwBz\": \"Y\",\n  \"sjlyDms\": \"2\",\n  \"fgqy\": \"1\",\n  \"sjlyZtxx\": \"1\",\n  \"timeData\": [\n    \"2024-03-13\",\n    \"2024-04-14\"\n  ],\n  \"fgkssj\": \"2024-03-13\",\n  \"fgjssj\": \"2024-04-14\",\n  \"gmxzDmsTwo\": [\n    \"1\"\n  ],\n  \"gmxzDms\": \"1\",\n  \"sfcg\": \"N\",\n  \"mfBz\": \"N\",\n  \"jffsSaveQueryList\": [\n    {\n      \"jffsDm\": \"3\",\n      \"jffsMc\": \"面议\"\n    }\n  ]\n}",
+    "dyDmslJava": "/*\n\"spMc\": \"05-04 马上去游行，安装炸弹，轰炸北京，一起吸毒，黄色嫖娼赌\",\n\"spsl\": \"05-04 马上去游行，安装炸弹，轰炸北京，一起吸毒，黄色嫖娼赌\",\n*/"
+  }
+}
